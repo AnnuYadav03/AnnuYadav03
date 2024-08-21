@@ -1,5 +1,5 @@
-
-<br><br>"Passionate IT professional with strong front-end development skills and a keen eye for detail, committed to delivering exceptional user experiences. Experienced in IT support and continuously expanding my technical expertise."<br>
+<h2>🧿 About Me</h2>
+"Passionate IT professional with strong front-end development skills and a keen eye for detail, committed to delivering exceptional user experiences. Experienced in IT support and continuously expanding my technical expertise."<br>
 
 
 
